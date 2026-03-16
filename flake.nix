@@ -17,7 +17,7 @@
     language = "go";
     builder = "tool";
     pname = "akeyless-csi-provider";
-    vendorHash = "sha256-8if5uRCc9HCP3EMth7TjtLM81Exjp9yLBGlVndIp+2A=";
+    vendorHash = "sha256-ZbUokO8fv6Exto12twkd/38G5N4pnOzahn2VPlK5308=";
     description = "Akeyless provider for the Kubernetes Secrets Store CSI Driver";
     homepage = "https://github.com/pleme-io/akeyless-csi-provider";
   };
